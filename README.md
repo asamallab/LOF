@@ -7,3 +7,4 @@ This reopsitory consists of the folders:
 - 'data', which contains all the data that is used to obtain the results in this work.  
 
 ## CITATION
+A preference for Link Operator Functions can drive Boolean biological networks towards critical dynamics. Ajay Subbaroyan, Olivier C. Martin, Areejit Samal.
