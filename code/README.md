@@ -1,3 +1,5 @@
+This folder contains all the codes used to obtain the results of this work
+
 <b>BF_LOFs.py</b> checks if a BF (Boolean function) is a LOF, and generates an LOF given the signs of the interactions of the Boolean function <br/>
 <b>Instances:</b><br/>
 Enter the number of inputs and BF truth table as a binary string. The string from left to right is the output of the truth table from the top to bottom.
