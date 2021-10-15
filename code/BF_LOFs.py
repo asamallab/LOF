@@ -3,7 +3,9 @@
 Programs to check if a BF is a LOF and to generate LOFs for a given
 sign combination
 Written by: Ajay Subbaroyan
-Reference: 
+Reference: A preference for Link Operator Functions can drive Boolean
+biological networks towards critical dynamics. Ajay Subbaroyan, 
+Olivier C. Martin, Areejit Samal.
 ====================================================================
 """
 from BF_generators import *
