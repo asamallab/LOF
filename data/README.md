@@ -17,3 +17,4 @@ Zhou, J. X., Samal, A., d'Hérouël, A. F., Price, N. D., & Huang, S. (2016). Re
 Joo, J.I., Zhou, J.X., Huang, S. et al. Determining Relative Dynamic Stability of Cell States Using Boolean Network Model. Sci Rep 8, 12077 (2018). https://doi.org/10.1038/s41598-018-30544-0
 
 ## CITATION
+A preference for Link Operator Functions can drive Boolean biological networks towards critical dynamics. Ajay Subbaroyan, Olivier C. Martin, Areejit Samal.
