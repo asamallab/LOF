@@ -1,0 +1,13 @@
+fro	to	sign
+Snail	Snail	i
+mu34	Snail	i
+Input	Snail	a
+mu200	Zeb	i
+Snail	Zeb	a
+Zeb	Zeb	a
+mu200	mu200	a
+Snail	mu200	i
+Zeb	mu200	i
+Snail	mu34	i
+Zeb	mu34	i
+Input	Input	a

@@ -1,0 +1,14 @@
+fro	to	sign
+Pax4	Pdx1	a
+Pdx1	Ptf1a	u
+Ptf1a	Ptf1a	a
+Ngn3	Ptf1a	i
+Ngn3	Ngn3	a
+Ptf1a	Ngn3	i
+Pdx1	Ngn3	u
+Pax4	Pax4	a
+Arx	Pax4	i
+Ngn3	Pax4	u
+Arx	Arx	a
+Pax4	Arx	i
+Ngn3	Arx	u
