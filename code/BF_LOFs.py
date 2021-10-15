@@ -93,7 +93,7 @@ def is_LOF (signs, f, kind):
     else:
         return ("LOF is not possible")
 
-def generate_link_func (sign, kind):
+def generate_LOF (sign, kind):
     '''
     signs: signs of the inputs as a string i.e 'aaia' where
     'a' represents activator and 'i' represents inhibitor
