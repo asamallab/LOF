@@ -10,4 +10,4 @@ cell_collective_BFs.tsv: Contains all the Boolean functions with at least one in
 zhou_edges.tsv and zhou_attrs.tsv: the interaction edges between genes and the steady states which are experimentally obtained in Zhou *et al.*
 joo_edges.tsv and joo_attrs.tsv: the interaction edges between genes and the steady states which are experimentally obtained in Joo *et al.*
 
-
+## CITATION
