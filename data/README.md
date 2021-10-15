@@ -1,5 +1,3 @@
-This folder contains all the data used to generate the results of this work
-
 cell_collective_BFs.tsv: Contains all the Boolean functions with at least one input. The headers in this file are:
 - #Node : the name of the node used in the model
 - k: the number of inputs to that node
