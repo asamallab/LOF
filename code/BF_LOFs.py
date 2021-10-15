@@ -1,7 +1,7 @@
 """
 ====================================================================
-Program to obtain perform operations on Boolean functions and get their
-various properties
+Programs to check if a BF is a LOF and to generate LOFs for a given
+sign combination
 Written by: Ajay Subbaroyan
 Reference: 
 ====================================================================
