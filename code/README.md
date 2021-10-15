@@ -67,3 +67,5 @@ False
 
 >>> bf(3, '11100000').all_perms()    #returns all the permutations of the BF given that all inputs have same sign 
 ['10101000', '11001000', '11100000'] #i.e positive or negative]
+
+# CITATION
