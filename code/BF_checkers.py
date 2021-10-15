@@ -1,9 +1,11 @@
 """
 ====================================================================
 Program to generate the different the different types of BFs, namely
-EFs, UFs, CFs and NCFs
+EFs, UFs and NCFs
 Written by: Ajay Subbaroyan
-Reference: 
+Reference: A preference for Link Operator Functions can drive Boolean
+biological networks towards critical dynamics. Ajay Subbaroyan, 
+Olivier C. Martin, Areejit Samal.
 ====================================================================
 """
 
