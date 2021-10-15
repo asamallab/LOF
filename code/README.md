@@ -70,3 +70,4 @@ False
 ```
 
 ## CITATION
+A preference for Link Operator Functions can drive Boolean biological networks towards critical dynamics. Ajay Subbaroyan, Olivier C. Martin, Areejit Samal.
