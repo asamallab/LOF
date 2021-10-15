@@ -3,7 +3,9 @@
 Program to obtain perform operations on Boolean functions and get their
 various properties
 Written by: Ajay Subbaroyan
-Reference: 
+Reference: A preference for Link Operator Functions can drive Boolean
+biological networks towards critical dynamics. Ajay Subbaroyan, 
+Olivier C. Martin, Areejit Samal.
 ====================================================================
 """
 
