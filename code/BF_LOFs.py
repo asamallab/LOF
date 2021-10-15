@@ -64,7 +64,7 @@ def is_LOF (signs, f, kind):
             else:
                 return False
         
-        #Check AND-pairs function
+        #Check AND-pairs
         elif kind == 'AND-pairs':
             Z = [zeros[a] for a in act]
             O = [ones[i] for i in inh]
@@ -77,7 +77,7 @@ def is_LOF (signs, f, kind):
             else:
                 return False
 
-        #Check OR-pairs function
+        #Check OR-pairs
         elif kind == 'OR-pairs':
             Z = [zeros[i] for i in inh]
             O = [ones[a] for a in act]
